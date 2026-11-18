@@ -2,7 +2,7 @@
 Interactive dashboard that picks the 10 most reliable batters and 10 most reliable bowlers under pressure in T20 cricket. Built for the Rajasthan Royals SupeRR Selector Season 2, Round 1
 
 
-Under Pressure: Player Dashboard
+# Under Pressure: Player Dashboard
 
 An interactive dashboard for the Rajasthan Royals SupeRR Selector Season 2, Round 1 challenge: Identify the Most Reliable Players Under Pressure.
 
